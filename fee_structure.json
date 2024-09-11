@@ -1,0 +1,114 @@
+[
+    {
+        "Year": "",
+        "I YEAR": "I Sem",
+        "": "",
+        "II YEAR": "III Sem",
+        "III YEAR": "V Sem",
+        "IV YEAR": "VII Sem"
+    },
+    {
+        "Year": "Admission Fee",
+        "I YEAR": "500",
+        "": "",
+        "II YEAR": "",
+        "III YEAR": "",
+        "IV YEAR": ""
+    },
+    {
+        "Year": "Caution Deposit",
+        "I YEAR": "10000",
+        "": "",
+        "II YEAR": "",
+        "III YEAR": "",
+        "IV YEAR": ""
+    },
+    {
+        "Year": "Tuition Fee",
+        "I YEAR": "37500",
+        "": "",
+        "II YEAR": "37500",
+        "III YEAR": "37500",
+        "IV YEAR": "37500"
+    },
+    {
+        "Year": "Fees for value added courses & special facilities",
+        "I YEAR": "5000",
+        "": "",
+        "II YEAR": "5000",
+        "III YEAR": "5000",
+        "IV YEAR": "5000"
+    },
+    {
+        "Year": "Other University Fees",
+        "I YEAR": "1500",
+        "": "",
+        "II YEAR": "",
+        "III YEAR": "",
+        "IV YEAR": ""
+    },
+    {
+        "Year": "University Exam Fees",
+        "I YEAR": "1700",
+        "": "",
+        "II YEAR": "1700",
+        "III YEAR": "1700",
+        "IV YEAR": "1700"
+    },
+    {
+        "Year": "Total-1",
+        "I YEAR": "56200",
+        "": "",
+        "II YEAR": "44200",
+        "III YEAR": "44200",
+        "IV YEAR": "44200"
+    },
+    {
+        "Year": "Conveyance charges",
+        "I YEAR": "7500",
+        "": "",
+        "II YEAR": "7500",
+        "III YEAR": "7500",
+        "IV YEAR": "7500"
+    },
+    {
+        "Year": "PTA Fees",
+        "I YEAR": "2500",
+        "": "",
+        "II YEAR": "2500",
+        "III YEAR": "2500",
+        "IV YEAR": "2500"
+    },
+    {
+        "Year": "Total-2",
+        "I YEAR": "10000",
+        "": "",
+        "II YEAR": "10000",
+        "III YEAR": "10000",
+        "IV YEAR": "10000"
+    },
+    {
+        "Year": "Grand Total",
+        "I YEAR": "66200",
+        "": "",
+        "II YEAR": "54200",
+        "III YEAR": "54200",
+        "IV YEAR": "54200"
+    },
+    {
+        "Year": "",
+        "I YEAR": "",
+        "": "",
+        "II YEAR": "",
+        "III YEAR": "",
+        "IV YEAR": ""
+    },
+    {
+        "Year": "hostel fees",
+        "I YEAR": "2500",
+        "": "",
+        "II YEAR": "2500",
+        "III YEAR": "2500",
+        "IV YEAR": ""
+    }
+]
